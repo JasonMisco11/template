@@ -24,7 +24,7 @@ const profile = {
   // Constructed bio based on his companies
   bio: "Entrepreneur and business leader managing a diverse portfolio of companies. Focused on delivering excellence in product distribution, corporate travel solutions, and student housing services across Ghana.",
   // Professional Placeholder (Replace with his real photo)
-  image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&auto=format&fit=crop&q=60",
+  image: "https://res.cloudinary.com/dm2jtckdc/image/upload/v1765734428/format_elzc7z.webp",
   email: "info@unlimited.com", // Placeholder
   socials: {
     linkedin: "#",
