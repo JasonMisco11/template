@@ -1,4 +1,4 @@
-import HomePage from '@/features/Homepage/Page'
+import HomePage from '@/features/HomePage/Page'
 import React from 'react'
 
 export default function page() {
